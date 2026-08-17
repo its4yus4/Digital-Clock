@@ -42,14 +42,9 @@ Low Resource Usage - Minimal CPU and memory footprint
  Screenshots
 
 ### Main Interface
-![Digital Clock Interface](screenshots/clock_screenshot.png)
+![Digital Clock Interface](<img width="1213" height="885" alt="Screenshot 2026-08-18 at 2 41 00 AM" src="https://github.com/user-attachments/assets/c2d5dc29-a823-4db3-9615-f23fcdc0e3dc" />
+)
 
-### Fullscreen Mode
-![Fullscreen Mode](screenshots/clock_fullscreen.png)
-
-*To add screenshots: Run the application and capture the window using your system's screenshot tool*
-
----
 
  Quick Start
 
